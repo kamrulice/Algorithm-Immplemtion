@@ -1,3 +1,5 @@
+// Email:mdkamrulhasan989@gmail.com //
+
 #include <bits/stdc++.h>
 /*#define MAXSIZE 1000*/
 int stk[1000],top;
